@@ -6,13 +6,16 @@
   🔭 I’m currently working on crystal plasticity and doing some works about experiments and finite element simulation. So studying Python and Fortran language is necessary to me. Occasionally I also  write scripts to process experimental data or ABAQUS input files. I appreciate it very much if someone communicates that with me.
 </p>
 <p>
-<img alt="Build Status" src="https://img.shields.io/badge/Python-3.10-blue" />
-<img alt="Build Status" src="https://img.shields.io/badge/Matlab-2018a-orange" />
-<img alt="Build Status" src="https://img.shields.io/badge/Fortran-purple" />
+  <img alt="Build Status" src="https://img.shields.io/badge/Python-3.10-blue" />
+  <img alt="Build Status" src="https://img.shields.io/badge/Matlab-2018a-orange" />
+  <img alt="Build Status" src="https://img.shields.io/badge/Fortran-purple" />
 </p>
-<p align="center">
-  <img alt="Dusai's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kun-Jiang" />
-</p>
+<div style="display: flex; flex-wrap: wrap;">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kun-Jiang&size_weight=0&count_weight=1&layout=compact&hide=glsl,batchfile,DIGITAL%20Command%20Language" width="45%" height="150"/>
+  <img alt="Dusai's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kun-Jiang&show_icons=true&cache_seconds=86400&theme=flag-india" width="45%" height="150" />
+</div>
+
+
 <!--
 **kun-Jiang/kun-Jiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
